@@ -70,7 +70,10 @@ class CarShowroom:
 if __name__ == "__main__":
     cs = CarShowroom()
     cs.get_all_cars()
+<<<<<<< HEAD
 
 
 # out:
 # описать
+=======
+>>>>>>> e985c093c424e7144639225457be6f9b4ff02e5f
