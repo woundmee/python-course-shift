@@ -70,10 +70,12 @@ class CarShowroom:
 if __name__ == "__main__":
     cs = CarShowroom()
     cs.get_all_cars()
-<<<<<<< HEAD
 
 
-# out:
-# описать
-=======
->>>>>>> e985c093c424e7144639225457be6f9b4ff02e5f
+# output:
+# =======
+# NAME=BMW	    MODEL=CS F5     CLEARANCE=10.75	    CAR_TYPE=Sport
+# NAME=Volvo	MODEL=CV90  	CLEARANCE=15.44	    CAR_TYPE=Sedan
+# NAME=Mazda	MODEL=CX-60 	CLEARANCE=12.39	    CAR_TYPE=Sedan
+# NAME=Toyota	MODEL=Camry	    CLEARANCE=14.88	    CAR_TYPE=Sedan
+
